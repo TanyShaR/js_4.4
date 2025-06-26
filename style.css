@@ -1,0 +1,15 @@
+.list {
+  font-family: Arial;
+}
+.item__load {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  color: #000;
+  text-decoration: none;
+}
+
+.item__image {
+  width: 150px;
+}
